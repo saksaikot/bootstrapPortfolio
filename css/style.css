@@ -1,0 +1,11 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.text-circle-help {
+  width: 150px;
+  height: 150px;
+}
+.circle-card-help {
+  min-height: 150px;
+}
